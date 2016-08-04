@@ -1,0 +1,30 @@
+_repo: The-Autobiography-of-a-Quack-and-The-Case-of-George-Dedlow_693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Silas Weir
+    - Mitchell, Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PS'
+- !lcsh 'Political fiction'
+- GITenberg
+title: The Autobiography of a Quack, and The Case of George Dedlow
+url: http://www.gutenberg.org/ebooks/693
